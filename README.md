@@ -1,5 +1,5 @@
 # NicheXplorer
-Preprint code for “NicheXplorer Enables Systematic Reprogramming of Stem Cell and tumor Microenvironments” (under review)
+Preprint code for “NicheXplorer Enables Systematic Reprogramming of Stem Cell and tumor Microenvironments”
 
 ## 0. Raw image data
 
