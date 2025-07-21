@@ -34,8 +34,8 @@ Within Group 2 (Cluster B), microwells were further subdivided into three cluste
 ### 2.1. Raw_sequencing data
 The raw bulk RNA-seq data (FASTQ files) are publicly available in the ArrayExpress database:
 
-B16-OVA cell expressing transcription factors data: Accession [E-MTAB-15290].
+B16-OVA cell expressing transcription factors data: Accession [E-MTAB-15290] (https://www.ebi.ac.uk/biostudies/ArrayExpress/studies/E-MTAB-15356?key=32fe823a-ff57-4cb9-add0-4b75dcfd54ba).
 
-C3H10T1/2 cells expressing transcription factors: Accession [E-MTAB-15356].
+C3H10T1/2 cells expressing transcription factors: Accession [E-MTAB-15356] (https://www.ebi.ac.uk/biostudies/ArrayExpress/studies/E-MTAB-15356?key=32fe823a-ff57-4cb9-add0-4b75dcfd54ba).
 
 ### 2.2. Preprocessing of Bulk RNA seq data
